@@ -11,16 +11,15 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height:90vh;
+    height:30vh;
 
 }
 
 #bottomMenu{
-    width: 1545px;
-    height: 138px;
+    width: 100vw;
+    height: 20vh;
     flex-shrink: 0;
     background: rgba(217, 217, 217, 0.50);
-    display:flex; 
     justify-content: center;
     flex-direction: row;
     align-items: center;
@@ -29,7 +28,7 @@ body {
 #menuColumn{
     flex-shrink:0; 
     width: 3px;
-    height: 106.075px;
+    height: 20vh;
     background: rgba(255, 255, 255, 0.50);
 }
 #menuText{
