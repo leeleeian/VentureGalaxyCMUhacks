@@ -24,6 +24,7 @@ body {
     justify-content: center;
     flex-direction: row;
     align-items: center;
+    position: sticky;
 }
 #menuColumn{
     flex-shrink:0; 
