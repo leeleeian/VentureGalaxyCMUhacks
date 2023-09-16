@@ -1,5 +1,6 @@
 body {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     font-family: monospace, monospace;
@@ -13,6 +14,39 @@ body {
     height:90vh;
 
 }
+
+#bottomMenu{
+    width: 1545px;
+    height: 138px;
+    flex-shrink: 0;
+    background: rgba(217, 217, 217, 0.50);
+    padding: 0px 0px 100px 0px;
+    display:flex; 
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+}
+#menuColumn{
+    flex-shrink:0; 
+    width: 3px;
+    height: 106.075px;
+    background: rgba(255, 255, 255, 0.50);
+}
+#menuText{
+    width: 326px;
+height: 62px;
+flex-shrink: 0;
+color: #FFF;
+text-align: center;
+font-family: monospace;
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding-left: 100px;
+padding-right: 100px;
+}
+
 #zoomedText {
     color: white; 
     animation: zoom 2s ease-in;
