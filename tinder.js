@@ -15,7 +15,8 @@ const userData = {
     imageSrc: "copter.jpg",
     website: "wingcopter.com", 
     funding: "250 Mil", 
-    mission: "Save lives using drones"
+    mission: "Save lives using drones", 
+    mail: "invest@wingcopter.com"
 };
 
 function nextProfile() {
@@ -27,3 +28,10 @@ function nextProfile() {
     companyFunding.innerHTML = userData.funding;
     profileImage.src=userData.imageSrc;     
 };
+
+function copyMail() {
+    navigator.clipboard.writeText(userData.mail);
+  
+    // Alert the copied text
+    alert("Copied the email: " + userData.mail);
+  }
