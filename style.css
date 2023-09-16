@@ -23,7 +23,8 @@ body {
     justify-content: center;
     flex-direction: row;
     align-items: center;
-    position: sticky;
+    position: fixed;
+    bottom: 0;
 }
 #menuColumn{
     flex-shrink:0; 
