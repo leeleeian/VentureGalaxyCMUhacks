@@ -20,7 +20,6 @@ body {
     height: 138px;
     flex-shrink: 0;
     background: rgba(217, 217, 217, 0.50);
-    padding: 0px 0px 100px 0px;
     display:flex; 
     justify-content: center;
     flex-direction: row;
