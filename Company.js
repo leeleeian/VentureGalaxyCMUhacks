@@ -8,7 +8,8 @@ const companyMission = document.getElementById("mission");
 const companyDescription = document.getElementById("about");
 //const logoButton = document.getElementById("nextButton");
 
-const curr_profile = 0;
+var curr_profile = 0;
+
 
 // Sample user data
 var userData = {
@@ -22,11 +23,11 @@ var userData = {
 
 function nextProfile() {
     // Display the user profile
-    companyMission.innerHTML = userData[curr_profile].mission; 
-    companyName.innerHTML = userData[curr_profile].name;
-    companyDescription.innerHTML = userData[curr_profile].description; 
-    companyWebsite.innerHTML = userData[curr_profile].website; 
-    companyFunding.innerHTML = userData[curr_profile].funding;
-    profileImage.src=userData[curr_profile].imageSrc;  
+    companyMission.innerHTML = userData.mission[curr_profile]; 
+    companyName.innerHTML = userData.name[curr_profile];
+    companyDescription.innerHTML = userData.description[curr_profile]; 
+    companyWebsite.innerHTML = userData.website[curr_profile]; 
+    companyFunding.innerHTML = userData.funding[curr_profile];
+    profileImage.src=userData.imageSrc[curr_profile];  
     curr_profile++;   
 };
