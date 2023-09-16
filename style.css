@@ -1,0 +1,15 @@
+#frontpage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+#zoomedText {
+    font-size: 10px;
+    transition: font-size 0.75s;
+}
+
+#zoomedImage {
+    width: 100%;
+    transition: width 0.75s;
+}
