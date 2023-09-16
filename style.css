@@ -5,6 +5,8 @@ body {
     align-items: center;
     font-family: monospace, monospace;
     background-image: url(IMAGE.jpg);
+    background-size: 30%;
+    background-repeat: repeat;
 }
 #frontpage{
     text-align: center;
