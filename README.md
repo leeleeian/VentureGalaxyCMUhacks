@@ -1,2 +1,2 @@
-# SpaceACMUhacks
+# SpaceCMUhacks
 ACM@CMU hackathon
