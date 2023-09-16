@@ -9,5 +9,5 @@ document.addEventListener("DOMContentLoaded", function () {
 
     hiddenDiv.style.display = "none";
 
-    setTimeout(show, 2000);
+    setTimeout(show, 1500);
 });

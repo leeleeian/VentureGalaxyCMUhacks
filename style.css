@@ -59,7 +59,7 @@ padding-right: 100px;
 
 #zoomedText {
     color: white; 
-    animation: zoom 2s ease-in;
+    animation: zoom 1.5s ease-in;
     animation-fill-mode: backwards;
     font-size: 4rem;
 }
