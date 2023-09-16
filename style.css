@@ -7,6 +7,7 @@
 #zoomedText {
     font-size: 10px;
     transition: font-size 0.75s;
+    color: white; 
 }
 
 #zoomedImage {
