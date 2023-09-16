@@ -10,13 +10,12 @@ const companyDescription = document.getElementById("about");
 
 // Sample user data
 const userData = {
-    name: "John Doe",
-    age: 30,
-    description: "I love hiking and exploring new places!",
-    imageSrc: "johndoe.jpg",
-    website: "johndoe.com", 
-    funding: "50K", 
-    mission: "john doe"
+    name: "Wingcopter",
+    description: "Worldwide drone solutions",
+    imageSrc: "copter.jpg",
+    website: "wingcopter.com", 
+    funding: "250 Mil", 
+    mission: "Save lives using drones"
 };
 
 function nextProfile() {
