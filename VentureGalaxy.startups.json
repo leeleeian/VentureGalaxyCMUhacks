@@ -1,0 +1,404 @@
+[{
+  "_id": {
+    "$oid": "6505dadacf06e07f2225a79c"
+  },
+  "Name": "Builder.ai",
+  "URL": "builder.ai",
+  "Founder": "Sachin Dev Duggal",
+  "Email": "s••••••@builder.ai",
+  "Industries": "AI",
+  "Last Funding Date": "5/10/2023",
+  "Score": 96,
+  "Business Model": "B2B,SaaS",
+  "Edge": "By automating the software development process, this company can drastically reduce costs and improve efficiency for businesses across a wide range of sectors, tapping into a large and lucrative market.",
+  "Description": "Builder.ai develops an AI-powered platform designed to help build and operate software projects.",
+  "City": "London",
+  "Country": "UK",
+  "Employees": "251 to 500",
+  "LinkedIn": "https://www.linkedin.com/company/builderai",
+  "Twitter": "https://twitter.com/builderai"
+},
+{
+  "_id": {
+    "$oid": "6505dadacf06e07f2225a79d"
+  },
+  "Name": "Nothing",
+  "URL": "nothing.tech",
+  "Founder": "Akis Evangelidis",
+  "Email": "a••••••@nothing.tech",
+  "Industries": "Hardware,Manufacturing",
+  "Last Funding Date": "4/5/2022",
+  "Score": 100,
+  "Business Model": "B2B",
+  "Edge": "With digital technologies becoming increasingly integrated into everyday life, this company's mission to connect products and services could put it at the forefront of the Internet of Things (IoT) revolution.",
+  "Description": "Nothing is a consumer tech company that develops a digital technology to connect products and services.",
+  "City": "London",
+  "Country": "UK",
+  "Employees": "11 to 50",
+  "LinkedIn": "https://www.linkedin.com/company/nothingtech/",
+  "Twitter": "https://twitter.com/nothing"
+},
+{
+  "_id": {
+    "$oid": "6505dadacf06e07f2225a79e"
+  },
+  "Name": "Clara",
+  "URL": "clara.com",
+  "Founder": "Diego Iván Garcia Escobedo",
+  "Email": "d••••••@clara.com",
+  "Industries": "Fintech,Enterprise Software,Payments,Business Intelligence,Ecommerce,Legal Tech",
+  "Last Funding Date": "4/27/2023",
+  "Score": 93,
+  "Business Model": "B2B,SaaS",
+  "Edge": "As the leading B2B credit card and payment solution in a specific region, this company is positioned to capitalize on the region's rapidly growing digital economy.",
+  "Description": "Clara is the leading B2B LatAm business credit card, payment solution, and expense tracking platform.",
+  "Country": "Mexico",
+  "Employees": "251 to 500",
+  "LinkedIn": "https://www.linkedin.com/company/claracc/",
+  "Twitter": "https://twitter.com/GetClaraCard"
+},
+{
+  "_id": {
+    "$oid": "6505dadacf06e07f2225a79f"
+  },
+  "Name": "Truecaller",
+  "URL": "truecaller.com",
+  "Founder": "Alan Mamedi",
+  "Email": "a••••••@truecaller.com",
+  "Industries": "Productivity",
+  "Last Funding Date": "4/28/2021",
+  "Score": 82,
+  "Business Model": "B2C",
+  "Edge": "As privacy concerns continue to rise, this company's service could become increasingly valuable. Their ability to block unwanted calls is an attractive feature in a world dominated by smartphones.",
+  "Description": "Truecaller is a mobile app that lets you see who's calling and block unwanted calls.",
+  "City": "Stockholm",
+  "Country": "Sweden",
+  "Employees": "51 to 100",
+  "LinkedIn": "http://www.linkedin.com/company/true-software-scandinavia-ab",
+  "Twitter": "http://twitter.com/truecaller"
+},
+{
+  "_id": {
+    "$oid": "6505dadacf06e07f2225a7a0"
+  },
+  "Name": "Stability AI",
+  "URL": "stability.ai",
+  "Founder": "Emad Mostaque",
+  "Email": "e••••••@stability.ai",
+  "Industries": "AI,Art",
+  "Last Funding Date": "10/12/2022",
+  "Score": 100,
+  "Business Model": "B2B,SaaS",
+  "Edge": "By using AI to create visual art, this company is innovating in a space that combines technology and creativity, offering a unique value proposition in the booming AI and digital art markets.",
+  "Description": "Stability AI is an AI-driven visual art startup that designs and implements an open AI tool to create images based on text input given.",
+  "City": "London",
+  "Country": "UK",
+  "Employees": "11 to 50",
+  "LinkedIn": "https://www.linkedin.com/company/stability-ai",
+  "Twitter": "https://twitter.com/stabilityai"
+},
+{
+  "_id": {
+    "$oid": "6505dadacf06e07f2225a7a1"
+  },
+  "Name": "TerraScale",
+  "URL": "terrascale.org",
+  "Founder": "Danny Hayes",
+  "Email": "d••••••@terrascale.org",
+  "Industries": "Data and Analytics,Proptech & Real Estate,Energy & Nuclear,Climate Tech & Green Tech,Communications,Business Intelligence",
+  "Last Funding Date": "1/13/2023",
+  "Score": 89,
+  "Business Model": "B2B,SaaS",
+  "Edge": "With an increasing focus on sustainability and green energy, this company's mission to accelerate the transition to a sustainable planet aligns with global trends and priorities.",
+  "Description": "Accelerating the transition to a more sustainable planet through global green infrastructure deployment.",
+  "City": "Los Angeles",
+  "Country": "US",
+  "Employees": "11 to 50",
+  "LinkedIn": "https://www.linkedin.com/company/terra-scale",
+  "Twitter": "https://twitter.com/terrascaleinc"
+},
+{
+  "_id": {
+    "$oid": "6505dadacf06e07f2225a7a2"
+  },
+  "Name": "TerraPay",
+  "URL": "terrapay.com",
+  "Founder": "Akbar Hussain",
+  "Email": "a••••••@terrapay.com",
+  "Industries": "Payments",
+  "Last Funding Date": "5/10/2023",
+  "Score": 85,
+  "Business Model": "B2C",
+  "Edge": "Mobile payments are becoming the norm worldwide, and this company's mobile-first approach could position them to lead in this massive, fast-growing market.",
+  "Description": "Mobile-first payments service.",
+  "City": "London",
+  "Country": "UK",
+  "Employees": "11 to 50"
+},
+{
+  "_id": {
+    "$oid": "6505dadacf06e07f2225a7a3"
+  },
+  "Name": "Octopus Energy",
+  "URL": "octopus.energy",
+  "Founder": "Greg Jackson",
+  "Email": "g••••••@octopus.energy",
+  "Industries": "Energy & Nuclear,Climate Tech & Green Tech,Manufacturing",
+  "Last Funding Date": "7/26/2022",
+  "Score": 90,
+  "Business Model": "B2B",
+  "Edge": "By focusing on customer experience and cost reduction, this company is well-positioned in the energy market, especially as the global focus shifts towards renewable energy and efficient consumption.",
+  "Description": "Octopus Energy builds technology that reduces the cost of energy to improve the customer experience.",
+  "City": "London",
+  "Country": "UK",
+  "Employees": "1001 to 5000",
+  "LinkedIn": "https://www.linkedin.com/company/octopus-energy",
+  "Twitter": "https://twitter.com/OctopusEnergy"
+},
+{
+  "_id": {
+    "$oid": "6505dadacf06e07f2225a7a4"
+  },
+  "Name": "Arloid Automation",
+  "URL": "arloid.com",
+  "Founder": "Max Zubov",
+  "Email": "m••••••@arloid.com",
+  "Industries": "AI",
+  "Last Funding Date": "1/1/2022",
+  "Score": 90,
+  "Business Model": "B2B",
+  "Edge": "The need for energy efficiency is driving demand for AI solutions like this company's, especially in industries with high energy consumption like real estate and manufacturing.",
+  "Description": "The ultimate AI solution for energy efficiency",
+  "City": "London",
+  "Country": "UK",
+  "Employees": "51 to 100",
+  "LinkedIn": "https://www.linkedin.com/company/arloid/",
+  "Twitter": "https://twitter.com/arloidai"
+},
+{
+  "_id": {
+    "$oid": "6505dadacf06e07f2225a7a5"
+  },
+  "Name": "m3ter",
+  "URL": "m3ter.com",
+  "Founder": "Griffin Parry",
+  "Email": "g••••••@m3ter.com",
+  "Industries": "Sales and Marketing",
+  "Last Funding Date": "4/27/2023",
+  "Score": 66,
+  "Business Model": "B2B",
+  "Edge": "Pricing operations platforms are essential for businesses to remain competitive, making this company's offering relevant to a vast range of industries.",
+  "Description": "Pricing ops platform.",
+  "City": "London",
+  "Country": "UK",
+  "Employees": "11 to 50"
+},
+{
+  "_id": {
+    "$oid": "6505dadacf06e07f2225a7a6"
+  },
+  "Name": "Coro",
+  "URL": "coro.net",
+  "Founder": "Carmel Domshlak",
+  "Email": "c••••••@coro.net",
+  "Industries": "Cybersecurity",
+  "Last Funding Date": "4/27/2023",
+  "Score": 98,
+  "Business Model": "B2B",
+  "Edge": "With the rise of cloud computing and increasing cybersecurity threats, this company's comprehensive platform could address a critical market need.",
+  "Description": "Coro is an all-in-one platform that protects the cloud from unauthorized access, prevents data leakage, and mitigates cloud threats.",
+  "City": "Tel Aviv",
+  "Country": "Israel",
+  "Employees": "11 to 50",
+  "LinkedIn": "https://mobile.twitter.com/coro_cyber",
+  "Twitter": "https://www.linkedin.com/company/coronet"
+},
+{
+  "_id": {
+    "$oid": "6505dadacf06e07f2225a7a7"
+  },
+  "Name": "Pando",
+  "URL": "pando.ai",
+  "Founder": "Abhijeet Manohar",
+  "Email": "a••••••@pando.ai",
+  "Industries": "Consumer Social,Enterprise Software,Supply Chain & Logistics,Mobile,Mobility & Transportation,Health Tech",
+  "Last Funding Date": "5/3/2023",
+  "Score": 100,
+  "Business Model": "B2B,SaaS",
+  "Edge": "The logistics industry is enormous and ripe for digitization, offering this company significant growth potential as it helps companies modernize their freight management.",
+  "Description": "Pando provides an open-market, freight management platform which digitizes logistics operations.",
+  "Country": "India",
+  "Employees": "51 to 100",
+  "LinkedIn": "https://www.linkedin.com/company/pandocorp-private-limited/",
+  "Twitter": "https://twitter.com/gopando"
+},
+{
+  "_id": {
+    "$oid": "6505dadacf06e07f2225a7a8"
+  },
+  "Name": "Clue",
+  "URL": "helloclue.com",
+  "Founder": "Hans Raffauf",
+  "Email": "h••••••@helloclue.com",
+  "Industries": "Health Tech",
+  "Last Funding Date": "5/5/2023",
+  "Score": 77,
+  "Business Model": "B2C",
+  "Edge": "With personalized health care and wellness becoming more popular, this company's fertility cycle mobile tracker could tap into a significant market demand.",
+  "Description": "Ferticility cycle mobile tracker.",
+  "City": "Berlin",
+  "Country": "Germany",
+  "Employees": "11 to 50"
+},
+{
+  "_id": {
+    "$oid": "6505dadacf06e07f2225a7a9"
+  },
+  "Name": "Wingcopter",
+  "URL": "wingcopter.com",
+  "Founder": "Ansgar Kadura",
+  "Email": "a••••••@wingcopter.com",
+  "Industries": "Drones,Supply Chain & Logistics",
+  "Last Funding Date": "5/11/2023",
+  "Score": 99,
+  "Business Model": "B2B",
+  "Edge": "The drone industry is projected to grow rapidly, and as a drone manufacturer, this company stands to benefit greatly from this trend.",
+  "Description": "Drone manufacturer.",
+  "City": "Frankfurt",
+  "Country": "Germany",
+  "Employees": "51 to 100"
+},
+{
+  "_id": {
+    "$oid": "6505dadacf06e07f2225a7aa"
+  },
+  "Name": "Deliverect",
+  "URL": "deliverect.com",
+  "Founder": "Jan Hollez",
+  "Email": "j••••••@deliverect.com",
+  "Industries": "Fintech,Foodtech,Mobile",
+  "Last Funding Date": "1/24/2022",
+  "Score": 89,
+  "Business Model": "B2B,B2C,Marketplace",
+  "Edge": "The food delivery market is booming, and by connecting restaurants with delivery companies, this company could benefit from the increased demand for efficient and integrated delivery systems.",
+  "Description": "Deliverect connects Uber Eats, Deliveroo, Glovo and more delivery companies directly to restaurants by POS system automation.",
+  "City": "Ghent",
+  "Country": "Belgium",
+  "Employees": "11 to 50",
+  "LinkedIn": "https://www.linkedin.com/company/deliverecthq/",
+  "Twitter": "https://twitter.com/Deliverect_com"
+},
+{
+  "_id": {
+    "$oid": "6505dadacf06e07f2225a7ab"
+  },
+  "Name": "LimeWire",
+  "URL": "limewire.com",
+  "Founder": "Julian Zehetmayr",
+  "Email": "j••••••@limewire.com",
+  "Industries": "Art,Crypto & web3,Music and Audio",
+  "Last Funding Date": "5/16/2023",
+  "Score": 76,
+  "Business Model": "B2C,Marketplace",
+  "Edge": "Peer-to-peer technology has multiple uses, and as data sharing needs grow, this company's solutions could meet the needs of a large and growing market.",
+  "Description": "LimeWire develops peer-to-peer software and solutionss for the file sharing industry.",
+  "City": "New York",
+  "Country": "US",
+  "Employees": "51 to 100",
+  "Twitter": "https://twitter.com/limewire"
+},
+{
+  "_id": {
+    "$oid": "6505dadacf06e07f2225a7ac"
+  },
+  "Name": "Infogrid",
+  "URL": "infogrid.io",
+  "Founder": "William Cowell de Gruchy",
+  "Email": "w••••••@infogrid.io",
+  "Industries": "Privacy and Security",
+  "Last Funding Date": "4/11/2023",
+  "Score": 100,
+  "Business Model": "B2B",
+  "Edge": "As businesses seek to make their buildings more efficient and environmentally friendly, this company's AI-driven building monitoring tech could tap into a significant market demand.",
+  "Description": "AI-driven building monitoring tech.",
+  "City": "London",
+  "Country": "UK",
+  "Employees": "11 to 50"
+},
+{
+  "_id": {
+    "$oid": "6505dadacf06e07f2225a7ad"
+  },
+  "Name": "Omni",
+  "URL": "omni.co",
+  "Founder": "Aaron Wiener",
+  "Email": "a••••••@omni.co",
+  "Industries": "Mobile,Ecommerce,Foodtech,Manufacturing",
+  "Last Funding Date": "1/16/2018",
+  "Score": 95,
+  "Business Model": "B2C,Marketplace",
+  "Edge": "With the sharing economy's rise, this company's rental marketplace could leverage this trend and address the need for accessible, affordable rental services.",
+  "Description": "Omni is a marketplace that provides access to the things needed by nayone through its rentals platform.",
+  "City": "San Francisco",
+  "Country": "US",
+  "Employees": "51 to 100",
+  "LinkedIn": "https://www.linkedin.com/company/omnirentals/",
+  "Twitter": "https://twitter.com/Omni"
+},
+{
+  "_id": {
+    "$oid": "6505dadacf06e07f2225a7ae"
+  },
+  "Name": "Lilium",
+  "URL": "lilium.com",
+  "Founder": "Daniel Wiegand",
+  "Email": "d••••••@lilium.com",
+  "Industries": "Space Tech,Mobility & Transportation,Manufacturing",
+  "Last Funding Date": "5/2/2023",
+  "Score": 89,
+  "Business Model": "B2B",
+  "Edge": "As electric vehicles become more popular, this company's development of an electrically powered aircraft could revolutionize the aviation industry.",
+  "Description": "Lilium is an aircraft company that is developing an electrically powered aircraft.",
+  "Country": "Germany",
+  "Employees": "501 to 1000",
+  "LinkedIn": "https://www.linkedin.com/company/lilium-aviation-gmbh",
+  "Twitter": "https://twitter.com/Lilium"
+},
+{
+  "_id": {
+    "$oid": "6505dadacf06e07f2225a7af"
+  },
+  "Name": "Graphcore",
+  "URL": "graphcore.ai",
+  "Founder": "Nigel Toon",
+  "Email": "n••••••@graphcore.ai",
+  "Industries": "AI,Machine Learning,Semiconductor,Manufacturing",
+  "Last Funding Date": "12/29/2020",
+  "Score": 99,
+  "Business Model": "B2B",
+  "Edge": "AI and machine learning are increasingly important across all sectors, and this company's specialized microprocessor could become a key piece of infrastructure for these technologies.",
+  "Description": "Graphcore develops a microprocessor designed for AI and machine learning applications.",
+  "City": "Bristol",
+  "Country": "UK",
+  "Employees": "251 to 500",
+  "LinkedIn": "https://www.linkedin.com/company/graphcore/",
+  "Twitter": "https://twitter.com/graphcoreai"
+},
+{
+  "_id": {
+    "$oid": "6505dadacf06e07f2225a7b0"
+  },
+  "Name": "Fetch.AI",
+  "URL": "fetch.ai",
+  "Founder": "Humayun Sheikh",
+  "Email": "h••••••@fetch.ai",
+  "Industries": "Crypto & web3",
+  "Last Funding Date": "4/28/2023",
+  "Score": 100,
+  "Business Model": "B2B",
+  "Edge": "As more industries explore blockchain technology, this company's decentralized network could become a major player in this rapidly expanding field.",
+  "Description": "Decentralized network.",
+  "City": "Cambridge",
+  "Country": "UK",
+  "Employees": "11 to 50"
+}]
