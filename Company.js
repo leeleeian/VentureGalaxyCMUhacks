@@ -19,6 +19,7 @@ var userData = {
     website: ["wingcopter.com", "www.406ventures.com/"], 
     funding: ["250 Mil", "100 Mil"], 
     mission: ["Save lives using drones", "Prototype and Early Revenue investing"],
+    mail: ["invest@wingcopter.com", "contact@406ventures.com"]
 };
 
 function nextProfile() {
@@ -29,5 +30,14 @@ function nextProfile() {
     companyWebsite.innerHTML = userData.website[curr_profile]; 
     companyFunding.innerHTML = userData.funding[curr_profile];
     profileImage.src=userData.imageSrc[curr_profile];  
-    curr_profile++;   
+    if(curr_profile<2){
+        curr_profile++;   
+    }
 };
+
+function copyMail() {
+    navigator.clipboard.writeText(userData.mail[curr_profile-1]);
+  
+    // Alert the copied text
+    alert("Copied the email: " + userData.mail[curr_profile-1]);
+  }
